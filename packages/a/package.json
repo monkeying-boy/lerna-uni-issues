@@ -1,0 +1,19 @@
+{
+  "name": "@demo/a",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "yehongrun <yehongrun@yhyl.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/A.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "components"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
